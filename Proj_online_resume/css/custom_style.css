@@ -1,0 +1,29 @@
+
+body {
+	max-width: 1300px;
+	margin: auto;
+
+	font-size: 1.2em;
+}
+
+h2 {
+	color: #777;
+}
+
+h3 {
+	padding: 20px 5% 10px;
+}
+
+a {
+	font-weight: bold;
+}
+
+p,
+.date-text,
+.location-text {
+	font-size: 0.9em;
+}
+
+.orange {
+	background: #f5a623;
+}
