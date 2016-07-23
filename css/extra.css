@@ -1,0 +1,68 @@
+hr {
+	background: #7d97ad;
+	height: 5px;
+}
+
+
+.textcolor-dark {
+	color: #2d3c49;
+}
+
+
+.textcolor-gray {
+	color: #7d97ad;
+	font-weight: bold;
+}
+
+
+.logo {
+	width: 152px;
+}
+
+
+.signature-name {
+	font-family: "Courgette", cursive;
+	font-size: 5em;
+}
+
+
+@media screen and (max-width: 768px) {
+	.smaller-img {
+		padding: 10px 8% 0;
+	}
+}
+
+
+@media screen and (max-width: 650px) {
+	.signature-name {
+		font-size: 3.5em;
+	}
+
+
+	.signature-title {
+		font-size: 1.5em;
+	}
+}
+
+
+@media screen and (max-width: 475px) {
+	.logo {
+		width: 100px;
+		margin: 6px 0px;
+	}
+
+
+	.signature {
+		padding: 0 20px;
+	}
+
+
+	.signature-name {
+		font-size: 2.5em;
+	}
+
+
+	.signature-title {
+		font-size: 1em;
+	}
+}
