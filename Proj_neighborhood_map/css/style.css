@@ -88,14 +88,14 @@ body {
     background-color: #E65100;
 }
 .list-icon:before{
-  background: url("../images/icon-filter.png");
+  background: url("./images/icon-filter.png");
   background-size: 17px;
 }
 .list-icon {
   display: none;
 }
 .search-icon:before{
-  background: url("../images/icon-search.png");
+  background: url("./images/icon-search.png");
   background-size: 17px;
 }
 .filter-area {
